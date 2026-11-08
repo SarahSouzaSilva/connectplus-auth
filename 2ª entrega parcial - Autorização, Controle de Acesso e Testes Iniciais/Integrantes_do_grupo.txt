@@ -1,0 +1,12 @@
+INTEGRANTES DO GRUPO
+2ª entrega parcial - Autorização, Controle de Acesso e Testes Iniciais
+Projeto: Central de Comunicados Corporativos - ConnectPlus (Projeto Disciplina - 2AV)
+Repositório: https://github.com/ygor-sys/api-connectplus
+
+Nome                                              Matrícula
+David William Dos Santos Guedes Alcoforado        01926604
+Júlio Silvestre de Lima Simão                     01888262
+Maria Fernanda Barbosa Dos Santos                 01898944
+Raquel Macêdo De França                           01910871
+Sarah Leticia Souza Da Silva                      01910076
+Ygor Da Silva Alves                               01902390
